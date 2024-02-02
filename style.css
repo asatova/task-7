@@ -78,10 +78,12 @@ body {
     cursor: pointer;
 }
 .card-flex-item {
+    height: 496px;
     width: 22%;
     box-shadow: 4px 4px 61px 0px rgba(34, 60, 80, 0.2);
 }
 .card-flex-item-sample {
+    height: 540px;
     width: 22%;
     box-shadow: 4px 4px 61px 0px rgba(34, 60, 80, 0.2);
 }
